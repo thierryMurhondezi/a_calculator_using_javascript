@@ -1,0 +1,10 @@
+@import url(/assets/css/color.css)
+
+.b{
+    border: 1px solid var(--main-color-gray);
+
+}
+
+#app{
+    background-color: var(--main-color);
+}
