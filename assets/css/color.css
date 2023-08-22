@@ -1,7 +1,7 @@
 :root{
     --main-color: orange;
     --main-color-white: white;
-    --main-color-gray: gray;
+    --main-color-gray: #ccc;
     --main-color-n: white;
 
 }
