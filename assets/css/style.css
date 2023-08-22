@@ -19,5 +19,9 @@ body{
 
 #app{
     background-color: var(--main-color); 
+    height: 100vh;
 }
 
+.calculator{
+    background-color: var(--main-color-white);
+}
