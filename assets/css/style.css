@@ -1,11 +1,23 @@
-@import url(/assets/css/color.css);
+@import url(./color.css);
+/* :root{
+    --main-color: orange;
+    --main-color-white: white;
+    --main-color-gray: #ccc;
+    --main-color-n: white;
+
+} */
+
+body{
+    padding: 0;
+    margin: 0;
+}
 
 .b{
-    border: 1px solid var(--);
+    border: 1px solid var(--main-color-gray);
 
 }
 
 #app{
-    background-color:orange;
+    background-color: var(--main-color); 
 }
 
