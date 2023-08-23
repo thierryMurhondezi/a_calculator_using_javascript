@@ -21,10 +21,16 @@ body{
     background-color: var(--main-color); 
     height: 100vh;
     display: flex;
+    /* justify content by X */
+    justify-content: center;
+    /* justify content by Y */
+    align-items: center;
 }
 
 .calculator{
     background-color: var(--main-color-white);
     max-width: 300px;
     width: 90%;
+    
 }
+ 
