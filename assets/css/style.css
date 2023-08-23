@@ -31,6 +31,15 @@ body{
     background-color: var(--main-color-white);
     max-width: 300px;
     width: 90%;
+    display: flex;
+    
+}
+
+.flex-1{
+    flex: 1;
+}
+
+.col-calculator-1{
     
 }
  
